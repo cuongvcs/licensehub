@@ -21,12 +21,14 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/licensehub/",
+  "scope": "/licensehub/",
   "display": "standalone",
-  "orientation": "portrait-primary",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
   "theme_color": "#080e1c",
   "background_color": "#080e1c",
-  "scope": ".",
   "categories": ["business", "productivity"],
-  "lang": "vi"
+  "lang": "vi",
+  "prefer_related_applications": false
 }
