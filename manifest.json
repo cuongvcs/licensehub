@@ -1,6 +1,6 @@
 {
   "short_name": "LicenseHub",
-  "name": "LicenseHub – License Manager",
+  "name": "LicenseHub",
   "description": "Software Subscription & License Manager",
   "icons": [
     {
@@ -27,7 +27,5 @@
   "orientation": "portrait",
   "theme_color": "#080e1c",
   "background_color": "#080e1c",
-  "categories": ["business", "productivity"],
-  "lang": "en",
   "prefer_related_applications": false
 }

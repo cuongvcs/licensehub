@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/licensehub/static/js/main.7b84f13b.js",
+    "main.js": "/licensehub/static/js/main.3ab601dd.js",
     "index.html": "/licensehub/index.html",
-    "main.7b84f13b.js.map": "/licensehub/static/js/main.7b84f13b.js.map"
+    "main.3ab601dd.js.map": "/licensehub/static/js/main.3ab601dd.js.map"
   },
   "entrypoints": [
-    "static/js/main.7b84f13b.js"
+    "static/js/main.3ab601dd.js"
   ]
 }
