@@ -1,7 +1,7 @@
 {
   "short_name": "LicenseHub",
   "name": "LicenseHub – License Manager",
-  "description": "Quản lý software subscriptions & licenses",
+  "description": "Software Subscription & License Manager",
   "icons": [
     {
       "src": "favicon.ico",
@@ -24,11 +24,10 @@
   "start_url": "/licensehub/",
   "scope": "/licensehub/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
   "orientation": "portrait",
   "theme_color": "#080e1c",
   "background_color": "#080e1c",
   "categories": ["business", "productivity"],
-  "lang": "vi",
+  "lang": "en",
   "prefer_related_applications": false
 }
